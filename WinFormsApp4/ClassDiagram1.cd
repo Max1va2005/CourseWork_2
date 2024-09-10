@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WinFormsApp4.Ammunitions.Abstractions.Ammunition">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAQAAAAAAAAAAAAQAACAAQEAAIQAACAAAAAA=</HashCode>
+      <FileName>Ammunitions\Abstractions\Ammunition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ammunitions.GrenadeAmmunition">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Ammunitions\GrenadeAmmunition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ammunitions.HandgunAmmunition">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Ammunitions\HandgunAmmunition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ammunitions.MineAmmunition">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Ammunitions\Mine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ammunitions.RifleAmmunition">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Ammunitions\RifleAmmunition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ammunitions.ShotgunAmmunition">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>Ammunitions\ShotgunAmmunition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
